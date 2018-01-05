@@ -1,5 +1,7 @@
 # Requests for Discussion
 
+Based on the wonderful work made public by [Joyent](http://github.com/joyent/rfd).
+
 Writing down ideas for system enhancement while they are still nascent
 allows for important, actionable technical discussion.  We capture
 these in **Requests for Discussion**, which are documents in the original
@@ -215,7 +217,7 @@ then the subject would be `RFD 169 Overlay Networks for Triton`.
 In the body, make sure to include a link to the RFD.
 
 If an RFD is in the `predraft` or `draft` state, you should also [open an
-issue](https://github.com/joyent/rfd/issues) to allow for additional
+issue](https://code.spearhead.cloud/Spearhead/rfd/issues) to allow for additional
 opportunity for discussion of the RFD.  This issue should have the synopsis
 that reflects its purpose (e.g. "RFD 169: Discussion") and the body should
 explain its intent (e.g. "This issue represents an opportunity for discussion
@@ -227,7 +229,7 @@ points to an issue query for the RFD number.  For example:
 ---
 authors: Chewbacca <chewie77@falcon.org>
 state: draft
-discussion: https://github.com/joyent/rfd/issues?q="RFD+169"
+discussion: https://code.spearhead.cloud/Spearhead/rfd/issues?q="RFD+1"
 ---
 ```
 
@@ -259,10 +261,9 @@ should consider creating a new RFD.
 
 ## Contributing
 
-Contributions are welcome, you do not have to be a Joyent employee to
+Contributions are welcome, you do not have to be a Spearhead employee to
 submit an RFD or to comment on one. The discussions for RFDs happen on
-the open on the various mailing lists related to Triton, Manta, and
-SmartOS.
+the open on the various mailing lists related to our projects.
 
 To submit a new RFD, please provide a git patch or a pull request that
 consists of a single squashed commit and we will incorporate it into the
