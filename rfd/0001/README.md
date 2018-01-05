@@ -23,7 +23,8 @@ as well.
 ## Key Requirements
 
 We wish to have a central location for all user authentication requests so that
-we can easily create and manage users. We can then use this central store to authenticate with all of our required services.
+we can easily create and manage users. We can then use this central store to
+authenticate with all of our required services.
 
 The first principles we are looking at include:
 
@@ -52,5 +53,11 @@ configuration files (possibly other details) for the framework.
 
 ## What is the security impact?
 
-A compromised directory could allow an attacker access to sensitive information or services. Furthermore a compromised directory could be used against us and therefore other methods of access for critical situations must be implemented (local accounts, override mechanisms, etc.). A mechanism to disable/invalidate all accounts must be implemented.
-A compromised user account impact depends on the privileges of the compromised account. A mechanism to quickly disable any compromised account must be implemented.
+A compromised directory could allow an attacker access to sensitive information
+or services. Furthermore a compromised directory could be used against us and
+therefore other methods of access for critical situations must be implemented
+(local accounts, override mechanisms, etc.). A mechanism to disable/invalidate
+all accounts must be implemented.
+A compromised user account impact depends on the privileges of the compromised
+account. A mechanism to quickly disable any compromised account must be
+implemented.
