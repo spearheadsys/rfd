@@ -29,6 +29,7 @@ authenticate with all of our required services.
 The first principles we are looking at include:
 
 * A centralized store for obtaining user ID's and Passwords
+* Group membership information
 * Restricted access (RBAC)
 * Secure end-to-end access
 
