@@ -1,6 +1,6 @@
 ---
 authors: Marius Pana <mp@spearhead.systems>
-state: draft
+state: published
 ---
 
 # RFD 1 Spearhead Directory Service (LDAP)
