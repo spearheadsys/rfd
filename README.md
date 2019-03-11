@@ -206,11 +206,7 @@ notes, then to start the discussion, you should first make sure you've
 pushed your changes to the repository and that the build is working.
 
 From here, send an e-mail to the appropriate mailing list that best fits
-your work. The options are:
-
-* [sdc-discuss@lists.smartdatacenter.org](https://www.listbox.com/member/archive/247449/=now)
-* [manta-discuss@lists.mantastorage.org](https://www.listbox.com/member/archive/247448/=now)
-* [smartos-discuss@lists.smartos.org](https://www.listbox.com/member/archive/184463/=now)
+your work, start the discussion on Slack/Mattermost, etc.. 
 
 The subject of the message should be the RFD number and synopsis. For
 example, if you RFD number 169 with the title  Overlay Networks for Triton,
