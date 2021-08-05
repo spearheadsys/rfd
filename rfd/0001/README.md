@@ -47,6 +47,12 @@ itself.
 Developers may in the future build upon this framework and integrate with other
 services.
 
+# Proposal
+
+We have had generally a positive experience using ApacheDS. Initially we will setup a single master server running in spearhead.cloud, backed-up offsite (restoring is a matter of copuing some files and starting the service). In time we will add a Multi-Master replication in a geo-redudant fashion (or at least in more than one AZ).
+
+We will store our user identities, groups and some systems (rundeck specifically). In time we may expand to include customer identidies and other details.
+
 ## What repositories are being changed, if known?
 
 A new repository Spearhead/ldap (or similar) will be created to host
