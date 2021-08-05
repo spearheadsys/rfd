@@ -1,7 +1,13 @@
 ---
 authors: Marius Pana <mp@spearhead.systems>
-state: predraft
+state: abandoned
 ---
+
+> spearhead.cloud currently utilises its own implementation of mantav1. Because upstream is no longer focusing on v1 of manta and the compute features we were interested in are no longer available we are abandoning our current object storage in favor of:
+> 
+> 1. Veeam backup & replication for BaaS, DRaaS, etc.
+>
+> 2. AWS s2, Azure Files/Object and miniio for customers looking for a local (to our cloud) object store
 
 # RFD 3 Spearhead Cloud object storage 
 
