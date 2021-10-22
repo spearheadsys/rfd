@@ -38,7 +38,7 @@ formal writing that it has come to represent.)
 | -------- | ------------------------------------------------------------- |
 | published  | [RFD 1 Spearhead Directory Service (LDAP)](./rfd/0001/README.md) |
 | predraft  | [RFD 2 Spearhead DNS Service (DNS)](./rfd/0002/README.md) |
-| predraft  | [RFD 3 Spearhead Cloud object storage (SDS)](./rfd/0003/README.md) |
+| abandoned  | [RFD 3 Spearhead Cloud object storage (SDS)](./rfd/0003/README.md) |
 
 ## Contents of an RFD
 
