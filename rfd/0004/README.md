@@ -3,7 +3,13 @@ authors: Marius Pana <mp@spearhead.systems>
 state: predraft
 ---
 
-> spearhead.cloud currently 
+> things we would like from a load balancer
+> * extremely simple to setup
+> * api support (cloudapi?)
+> * proxy protoicol support
+> * http2 support
+> * highly available
+> * letsencrypt / ssl certificates support
 
 # RFD 4 Spearhead Cloud Load Balancer
 
