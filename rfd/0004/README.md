@@ -11,6 +11,9 @@ state: predraft
 > * highly available
 > * letsencrypt / ssl certificates support
 
+> idee: util pentru referinta https://docs.joyent.com/public-cloud/network/cns/faq#triton-cns-compared-to-elb-elastic-ips-and-brocade-vtm-steelapp
+mai ales textul despre tags, ca sa identificam IP, etc. astfel am putea teoretic sa facem un query pentru toate cns names, stiind format pentry int, ext, fablans, putem oferi acestea ca optiuni in interfata produsului …
+
 # RFD 4 Spearhead Cloud Load Balancer
 
 ## Overview
