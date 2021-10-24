@@ -40,6 +40,11 @@ formal writing that it has come to represent.)
 | predraft  | [RFD 2 Spearhead DNS Service (DNS)](./rfd/0002/README.md) |
 | abandoned  | [RFD 3 Spearhead Cloud object storage (SDS)](./rfd/0003/README.md) |
 | predraft  | [RFD 4 Spearhead Cloud Load Balancer (SBL)](./rfd/0004/README.md) |
+| predraft  | [RFD 5 Spearhead Elastic Block Devices(SEBD)](./rfd/0005/README.md) |
+| predraft  | [RFD 6 Spearhead Cloud Customer Portal (Trixae)](./rfd/0006/README.md) |
+| predraft  | [RFD 7 Spearhead Cloud VM Consoles](./rfd/0007/README.md) |
+| predraft  | [RFD 8 Spearhead Cloud Billing updates](./rfd/0008/README.md) |
+| predraft  | [RFD 9 Spearhead Cloud Checkmk Monitoring](./rfd/0009/README.md) |
 
 ## Contents of an RFD
 
