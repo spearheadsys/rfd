@@ -1,52 +1,23 @@
----
-authors: Marius Pana <mp@spearhead.systems>
-state: predraft
----
-
-> Trixae MVP is in production at https://t.spearhead.systems
->  we are now targeting a more featurefull version
->
-> things we would like from Trixae
-> * extremely simple to use
-> *volumes
-- show more details (such as ip and mount point)
-- enable some form of pagination, the list can get big for large customers and unmanageable
-
-firewall
-- enable some form of pagination, the list can get big for large customers and unmanageable
-- filter by vm name (rules are attached to vms as far as I know)
-
-machines
-- enable some form of pagination, the list can get big for large customers and unmanageable
-- add list of firewall rules
-- add possibility to add new firewall rules (delete, etc.)
-
-
-dashboard
-- introduce a new entry point, the default page, which is a dashboard containing
-- different statistics and metrics such as
-    - usage trend
-    - number of running, stopoed, etc vms
-    - number of volumes
 
 # RFD 4 Spearhead Cloud Customer Portal
 
 ## Overview
-
+The existing piranha portal is still quite useful for operating your cloud resources as a tenant. It is however showing its age and updating / managing the current version was not an option for as we could not find angular1 experts.
 
 # What problem are we solving?
-
+Designing a new customer portal for tenants to access their cloud resources that would be able to handle the next 3 - 5 years of development (i.e. technology is still managed/manageable).
 
 ## Key Requirements
-
+Create, delete machines, networks, users, roles and policies.
+A more user-friendly experience.
 
 ## How will users interact with these features?
-
+Via the web interface.
 
 
 ## What repositories are being changed, if known?
-
+[sc-portal](https://github.com/spearheadsys/sc-portal)
 
 
 ## What is the security impact?
-
+We are reusing http-signatures and the existing SSO authentication framework. 
