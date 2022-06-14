@@ -1,3 +1,8 @@
+---
+authors: Marius Pana <mp@spearhead.systems>
+state: publish
+---
+
 
 # RFD 4 Spearhead Cloud Customer Portal
 
