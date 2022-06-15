@@ -1,6 +1,6 @@
 ---
 authors: Marius Pana <mp@spearhead.systems>
-state: draft
+state: publish
 ---
 
 # RFD 10 Spearhead Cloud Customer Portal feature updates
