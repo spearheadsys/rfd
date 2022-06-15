@@ -45,7 +45,7 @@ formal writing that it has come to represent.)
 | predraft  | [RFD 7 Spearhead Cloud VM Consoles](./rfd/0007/README.md) |
 | predraft  | [RFD 8 Spearhead Cloud Billing updates](./rfd/0008/README.md) |
 | predraft  | [RFD 9 Spearhead Cloud Checkmk Monitoring](./rfd/0009/README.md) |
-| draft  | [RFD 10 Spearhead Cloud Checkmk Monitoring](./rfd/0010/README.md) |
+| publish  | [RFD 10 Spearhead Cloud Checkmk Monitoring](./rfd/0010/README.md) |
 
 ## Contents of an RFD
 
